@@ -93,3 +93,4 @@ sample ui images/
 # test_ui_generation.py
 # generate_complete_app.py
 # generate_social_network_app.py
+frontend_generator/
